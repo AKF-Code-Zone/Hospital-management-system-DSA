@@ -1,0 +1,7 @@
+ID  | Names |Medical History |Dr.Name
+563 | chgj | bjk | ali
+52 | hv | fvk | dhk
+5623 | ali | heart | ali
+8956 | ali | ortho | saif
+4587 | kashaf | nssd dbdwb | wahaj
+2345 | ali | heart patient | wahaj

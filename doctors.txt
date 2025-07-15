@@ -1,0 +1,5 @@
+ID  |   Names    | Specialization  
+2345 | ali haider | heart
+2356 | saif |  ali | as
+2314 | ali | meb
+2389 | wahaj | orthopatic
